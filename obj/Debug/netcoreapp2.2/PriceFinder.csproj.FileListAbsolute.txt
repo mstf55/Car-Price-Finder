@@ -1,0 +1,11 @@
+/home/mustafaa/Desktop/mstf55/PriceFinder/obj/Debug/netcoreapp2.2/PriceFinder.csprojAssemblyReference.cache
+/home/mustafaa/Desktop/mstf55/PriceFinder/obj/Debug/netcoreapp2.2/PriceFinder.csproj.CoreCompileInputs.cache
+/home/mustafaa/Desktop/mstf55/PriceFinder/obj/Debug/netcoreapp2.2/PriceFinder.AssemblyInfoInputs.cache
+/home/mustafaa/Desktop/mstf55/PriceFinder/obj/Debug/netcoreapp2.2/PriceFinder.AssemblyInfo.cs
+/home/mustafaa/Desktop/mstf55/PriceFinder/bin/Debug/netcoreapp2.2/PriceFinder.deps.json
+/home/mustafaa/Desktop/mstf55/PriceFinder/bin/Debug/netcoreapp2.2/PriceFinder.runtimeconfig.json
+/home/mustafaa/Desktop/mstf55/PriceFinder/bin/Debug/netcoreapp2.2/PriceFinder.runtimeconfig.dev.json
+/home/mustafaa/Desktop/mstf55/PriceFinder/bin/Debug/netcoreapp2.2/PriceFinder.dll
+/home/mustafaa/Desktop/mstf55/PriceFinder/bin/Debug/netcoreapp2.2/PriceFinder.pdb
+/home/mustafaa/Desktop/mstf55/PriceFinder/obj/Debug/netcoreapp2.2/PriceFinder.dll
+/home/mustafaa/Desktop/mstf55/PriceFinder/obj/Debug/netcoreapp2.2/PriceFinder.pdb
